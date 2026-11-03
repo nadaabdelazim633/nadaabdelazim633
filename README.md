@@ -1,20 +1,19 @@
+
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders"/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=80&lines=I'm+Nada+Abdelazim" alt="I'm Nada Abdelazim" />
+</h1>
 
 <br>
 
-<h1>I'm Nada Abdelazim</h1>
-
-<br>
-
-<!-- Female Developer Illustration goes here -->
+<img src="images/female-developer.png" width="420" alt="Female Developer Working at Desk" />
 
 <br>
 
 ### Flutter & Mobile App Developer 💙
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=550&lines=Flutter+Developer;Mobile+App+Development;Turning+Ideas+Into+Applications;Always+Learning+%26+Building" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Flutter+Developer;Building+Mobile+Applications;Learning+and+Growing" alt="Flutter Developer Animation" />
 
 <br>
 
