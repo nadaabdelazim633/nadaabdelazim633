@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1200&color=000000&center=true&vCenter=true&width=700&height=80&lines=Hello+Coders%3BI'm+Nada+Abdelazim" alt="Hello Coders, I'm Nada Abdelazim" />
 
-
-# Hi, I'm Nada Abdelazim 👋
-
 ### Flutter & Mobile App Developer 💙
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=550&lines=Flutter+Developer;Mobile+App+Development;Turning+Ideas+Into+Applications;Always+Learning+%26+Building" alt="Typing SVG"/>
