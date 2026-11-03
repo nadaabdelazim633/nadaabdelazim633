@@ -138,17 +138,18 @@ A Flutter-based food donation platform designed to reduce food waste by connecti
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nadaabdelazim633&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nadaabdelazim633&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadaabdelazim633&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadaabdelazim633&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br><br>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=nadaabdelazim633&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=nadaabdelazim633&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
