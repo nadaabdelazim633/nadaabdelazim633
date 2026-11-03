@@ -16,14 +16,13 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Nada Abdelazim**, a Computer Science student and aspiring **Flutter Developer** passionate about building mobile applications and creating smooth, user-friendly experiences.
+Hi! I'm **Nada Abdelazim**, a **Flutter & Mobile App Developer** passionate about building mobile applications with clean, user-friendly interfaces.
 
-- 📱 Focused on Flutter & Mobile App Development.
-- 💙 Working with Dart, Flutter, and Firebase.
-- 🎨 Interested in UI/UX Design and clean interfaces.
-- 🧩 Enjoy solving problems and learning new technologies.
-- 🤝 Love collaborating with teams and building real-world projects.
-- 🚀 Always exploring new ways to improve my development skills.
+- 📱 Focused on Flutter & Mobile Application Development.
+- 💙 Experienced in Dart, Flutter, and Firebase.
+- 🎨 Interested in UI/UX Design and creating smooth user experiences.
+- 🧩 Enjoy building interactive applications and solving problems.
+- 🚀 Always learning and improving my development skills.
 
 ---
 
