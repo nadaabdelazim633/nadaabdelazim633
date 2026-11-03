@@ -11,7 +11,6 @@
 <!-- Female Developer Illustration goes here -->
 
 <br>
-# Hi, I'm Nada Abdelazim 👋
 
 ### Flutter & Mobile App Developer 💙
 
