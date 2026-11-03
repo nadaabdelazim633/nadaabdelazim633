@@ -1,20 +1,26 @@
 
-<div align="center">
+<div align="center" width="50">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1200&color=000000&center=true&vCenter=true&width=700&height=80&lines=Hello+Coders%3BI'm+Nada+Abdelazim" alt="Hello Coders, I'm Nada Abdelazim" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 
-<br><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Workspace" width="40%"/><br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Developer Workspace"/>
+<details>
+<p><strong><summary>Busy coding & Vibing to:</summary></strong></p>
+
+<!-- Add your Spotify profile link here if you want -->
+
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nadaabdelazim633&style=flat&color=orange&label=PROFILE+VIEWS)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnadaabdelazim633&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+
+<a href="https://www.linkedin.com/in/nadaabdelazim">
+<img src="https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin"/>
+</a>
 
 <br>
-
-### Flutter & Mobile App Developer 💙
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nadaabdelazim633&style=flat&color=02569B&label=PROFILE+VIEWS)
-
 </div>
 
 ---
