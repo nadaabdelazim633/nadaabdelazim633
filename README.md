@@ -1,14 +1,22 @@
+
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2500&pause=1200&color=000000&center=true&vCenter=true&width=700&height=80&lines=Hello+Coders%3BI'm+Nada+Abdelazim" alt="Hello Coders, I'm Nada Abdelazim" />
 
-<br>
+<br><br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Developer Workspace"/>
 
 <br>
 
--
+### Flutter & Mobile App Developer 💙
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nadaabdelazim633&style=flat&color=02569B&label=PROFILE+VIEWS)
+
+</div>
+
 
 ## 👩‍💻 About Me
 
